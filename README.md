@@ -1,14 +1,3 @@
 # restfull-clojure
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This project is a practice section for [Andrew Meredith this Blog posts](https://kendru.github.io/restful-clojure/2014/02/16/writing-a-restful-web-service-in-clojure-part-1-setup/)
